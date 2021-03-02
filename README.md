@@ -18,7 +18,7 @@ Thanx TG for making coding Interesting 4 me ..🤕 </pre>
 
 
 ![Priyanshu's github stats](https://github-readme-stats.vercel.app/api?username=bhardwajjEE&theme=vue&count_private=true&show_icons=true&cache_seconds=1800)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhardwajjEE&layout=compact)](https://github.com/bhardwajjEE/github-readme-stats)
+''' [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhardwajjEE&layout=compact)](https://github.com/bhardwajjEE/github-readme-stats)'''
 ![Profile view Stats](https://komarev.com/ghpvc/?username=bhardwajjEE&style=flat-square)
 
 ## <img src="https://s2.gifyu.com/images/zjszctwh68cnufnrkzqs.gif" width="80px"> Reach Me out :-
