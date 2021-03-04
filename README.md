@@ -23,7 +23,7 @@ Thanx TG for making coding Interesting 4 me ..🤕 </pre>
 
 <details>
 <summary><b>Err. 410 Gone</b></summary>
-<b>The thing you Looking for No Longer Exists.</b>
+<b>The thing you Looking for is either private or no longer exists.</b>
  </details>
 
 
