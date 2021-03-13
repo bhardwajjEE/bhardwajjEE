@@ -2,10 +2,11 @@
 <img src="https://i.pinimg.com/originals/25/26/93/252693b8a96eb697c5e889e0165929bf.gif">
 
 <pre>
-Hey.... I am Pratyush bhardwaj<br>
-Currently learning Python.
-Most of Projects Listed are Related to Telegram<br>
-<br>
+Hey.... I am Pratyush bhardwaj
+Currently learning Python & 
+Trying To achieve Noobie Status ...🤥
+Most of Projects Listed are Related to Telegram
+Yes, Most of Projects are Now Private .
 </pre>
 
 
