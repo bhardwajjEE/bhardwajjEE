@@ -6,7 +6,7 @@ Hey.... I am Pratyush bhardwaj
 Currently learning Python & 
 Trying To achieve Noobie Status ...🤥
 Most of Projects Listed are Related to Telegram
-Yes, Most of Projects are Now Private .
+Yes, Most of Projects are Now Private ...😟
 </pre>
 
 
@@ -17,11 +17,6 @@ Yes, Most of Projects are Now Private .
 ![Priyanshu's github stats](https://github-readme-stats.vercel.app/api?username=bhardwajjEE&theme=vue&count_private=true&show_icons=true&cache_seconds=1800)
 ![Profile view Stats](https://komarev.com/ghpvc/?username=bhardwajjEE&style=flat-square)
 
-<details>
-<summary><b>Language :-</b></summary>
-<b>Python</b>
- </details>
-
 
 
 ## <img src="https://s2.gifyu.com/images/zjszctwh68cnufnrkzqs.gif" width="80px"> Reach Me out :-
@@ -31,5 +26,5 @@ Yes, Most of Projects are Now Private .
 [<img src="https://i.ibb.co/F6Xmbmx/pngaaa-com-1009358.png" width="75">](mailto:itispriyanshu@gmail.com)
 
 
-#### Error 410 , Gone ..!! 
+#### Error 410 , ProjEcts are Pvt. Now ..!! 
   
