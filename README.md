@@ -26,5 +26,5 @@ Yes, Most of Projects are Now Private ...😟
 [<img src="https://i.ibb.co/F6Xmbmx/pngaaa-com-1009358.png" width="75">](mailto:itispriyanshu@gmail.com)
 
 
-#### Error 410 , ProjEcts are Pvt. Now ..!!(https://http.cat/401)
+#### [Error 410 , ProjEcts are Pvt. Now ..!!](https://http.cat/401)
   
