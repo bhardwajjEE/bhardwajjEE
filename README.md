@@ -21,7 +21,6 @@ Yes, Most of Projects are Now Private ...😟
 
 ## <img src="https://s2.gifyu.com/images/zjszctwh68cnufnrkzqs.gif" width="80px"> Reach Me out :-
 
-[<img src="https://i.ibb.co/9GjV9dZ/Beautiful-Instagram-logo-icon-social-media-png.png" width="75">](https://instagram.com/priyanshu_bhardwajji)
 [<img src="https://i.ibb.co/nRkyYzQ/telegram-app.png" width="80">](https://telegram.me/priyanshu_bhardwaj)
 [<img src="https://i.ibb.co/F6Xmbmx/pngaaa-com-1009358.png" width="75">](mailto:itispriyanshu@gmail.com)
 
