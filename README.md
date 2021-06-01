@@ -6,7 +6,6 @@ Hey.... I am Pratyush bhardwaj
 Currently learning Python & 
 Trying To achieve Noobie Status ...🤥
 Most of Projects Listed are Related to Telegram
-Yes, Most of Projects are Now Private ...😟
 </pre>
 
 
